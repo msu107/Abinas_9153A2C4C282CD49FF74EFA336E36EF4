@@ -1,4 +1,5 @@
-"""1.1-Implement a recursive function to calculte the factorial of a given number"""
+"""1.1-Implement a recursive function to calculte the factorial
+of a given number"""
 
 def fact(n):
 	if n==0:
