@@ -7,7 +7,7 @@ def fact(n):
 		return n*fact(n-1)
 n=int(input("Enter the number:"))
 result=fact(n)
-print(result)		
+print("The factorial of {} is {}".format(n,result))		
 
 
 		
